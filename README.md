@@ -1,1 +1,1 @@
-# Minor-Bot
+# Major Bot
